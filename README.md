@@ -42,8 +42,8 @@ NFS "S.E.Q.U.E.L." Mod
 
 Установка Мода:
 
-* папка [ MICHAEL ] переписывается в папку сохранений игры (c:\Documents and Settings\<имя>\Мои документы\NFS Most Wanted\)
-* папка [ CARS ] переписывается в папку установленной игры (c:\Program Files\EA GAMES\Need for Speed Most Wanted\), кроме текстур BMW M3 GTR E46 (их две разных: нужно выбрать и точно так же заменить оригинальные)
+* архив [ MICHAEL ] извлекаются в папку сохранений игры (c:\Documents and Settings\<имя>\Мои документы\NFS Most Wanted\)
+* архивы машин в папке [ CARS ] переписывается в папку установленной игры (c:\Program Files\EA GAMES\Need for Speed Most Wanted\), кроме текстур BMW M3 GTR E46 (их две разных: нужно выбрать и точно так же заменить оригинальные)
 * файл 00000000.256 переписывается в папку установленной игры (c:\Program Files\EA GAMES\Need for Speed Most Wanted\)
 * не забудте сделать бэкап оригинальных файлов для отката
 
